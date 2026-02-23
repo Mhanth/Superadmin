@@ -1172,7 +1172,7 @@ const NAV_ITEMS = [
   { id: "settings", icon: "⚙️", label: "Settings" },
 ];
 
-export default function App() {
+export default function PulseAdminPanel() {
   const [page, setPage] = useState("dashboard");
   const [hospitals, setHospitals] = useState(HOSPITALS);
   const [toast, setToast] = useState(null);

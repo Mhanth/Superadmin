@@ -19,4 +19,4 @@ The project uses Vite for development and building.
 
 ## Notes
 
-The UI is currently using inline styles and mock data. Convert to real APIs and split into smaller components for production readiness.
+The UI is currently using inline styles and mock data. Convert to real APIs and split into smaller components for production readline. 
